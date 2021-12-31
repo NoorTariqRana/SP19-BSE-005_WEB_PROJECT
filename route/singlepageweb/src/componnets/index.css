@@ -1,0 +1,12 @@
+.notfound {
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+  }
+  .add{
+    float: right;
+  }

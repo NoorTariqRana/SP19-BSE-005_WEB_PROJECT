@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "name": "LA GIRL FOUNDATION",
+      "price": "1200",
+      "id": 1
+    },
+    {
+      "name": "MASCARA",
+      "price": "1200",
+      "id": 2
+    },
+    {
+      "name": "EYELINER",
+      "price": "250",
+      "id": 3
+    },
+    {
+      "name": "Maybelline Foundation",
+      "price": "1230",
+      "id": 4
+    }
+  ]
+}

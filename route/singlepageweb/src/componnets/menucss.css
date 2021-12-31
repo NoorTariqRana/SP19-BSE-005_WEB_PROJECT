@@ -1,0 +1,53 @@
+.size{
+padding-left: 1rem;
+    padding-right: 10rem;
+    padding-top:1rem;
+    padding-bottom: 1rem;
+    color:black;
+    
+}
+.color{
+background-color:pink;
+}
+.img
+{
+        display: flex;
+    
+        flex: 33.33%;
+        padding: 5px;
+        margin: 1rem;
+      
+      
+}
+.paddin{
+    padding-top: 2rem;
+    text-align: left;
+    color:palevioletred;
+}
+.para
+{
+    padding-left: 3rem;
+}
+.button
+{
+text-align: center;
+color:palevioletred;
+}
+b{
+    color:palevioletred;
+    font-size:x-large
+}
+.title:hover{
+color:palevioletred;
+}
+button:hover{
+color:palevioletred;
+}
+.footer-container
+{
+    background-color:pink;
+    padding: 1rem;
+    text-align:center;
+    
+
+}
